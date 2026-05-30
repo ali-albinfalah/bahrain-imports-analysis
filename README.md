@@ -38,5 +38,5 @@ from 2021 to 2025, and which sourcing markets dominate Bahrain's supply.
 - Explore China for product variety alongside affordable Asian suppliers
 
 ## Data Source
-Bahrain Open Data Portal — Clothing Import Data 2021–2025
+Bahrain Open Data Portal — Clothing Import Data 2021–2025   
 https://www.data.gov.bh/explore/?disjunctive.theme&sort=modified&q=imports
